@@ -2,7 +2,7 @@ package bhamrevel
 
 import (
 	"github.com/acsellers/bham"
-	"github.com/acsellers/revel"
+	"github.com/robfig/revel"
 )
 
 func init() {
